@@ -9,12 +9,8 @@ def je_prastevilo(n):
 for x in range(2,201): 
     if je_prastevilo:
         print(x)   
-<<<<<<< HEAD
+
         fuufuf2fhoi
-=======
-<<<<<<< HEAD
         fuufuf
-=======
         lol
->>>>>>> ac6fba6ef93c474e36678248ba1b
->>>>>>> 2b9ab8d254fa52488beff826f39d3c320c682350
+
