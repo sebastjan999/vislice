@@ -7,7 +7,7 @@ vislice = model.Vislice()
 
 @bottle.get('/')
 def index():
-    return bottle.template('index.tpi')
+    return bottle.template('index.tpl')
 
 
 
